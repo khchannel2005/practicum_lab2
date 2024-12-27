@@ -1,0 +1,7 @@
+c:\users\khodakovskiy\documents\visual studio 2010\Projects\practicum_lab2\practicum_lab2\bin\Debug\practicum_lab2.exe
+c:\users\khodakovskiy\documents\visual studio 2010\Projects\practicum_lab2\practicum_lab2\bin\Debug\practicum_lab2.pdb
+c:\users\khodakovskiy\documents\visual studio 2010\Projects\practicum_lab2\practicum_lab2\obj\x86\Debug\practicum_lab2.Form1.resources
+c:\users\khodakovskiy\documents\visual studio 2010\Projects\practicum_lab2\practicum_lab2\obj\x86\Debug\practicum_lab2.Properties.Resources.resources
+c:\users\khodakovskiy\documents\visual studio 2010\Projects\practicum_lab2\practicum_lab2\obj\x86\Debug\practicum_lab2.csproj.GenerateResource.Cache
+c:\users\khodakovskiy\documents\visual studio 2010\Projects\practicum_lab2\practicum_lab2\obj\x86\Debug\practicum_lab2.exe
+c:\users\khodakovskiy\documents\visual studio 2010\Projects\practicum_lab2\practicum_lab2\obj\x86\Debug\practicum_lab2.pdb
